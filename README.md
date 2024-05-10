@@ -1,4 +1,5 @@
 # ChefBot
+<img src="chefbot.jpg">
 Está meio perdido e não sabe o que fazer para a sua próxima refeição?
 
 ChefBot é um Chatbot com IA destinado a auxiliar as pessoas a cozinhar com o que possuem em casa.
